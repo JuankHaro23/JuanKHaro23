@@ -68,10 +68,17 @@ He consolidado mis proyectos y conocimientos prácticos en una guía detallada s
 
 ### 💼 Experiencia Profesional Relevante
 
+** Desarrollador Backend y Fronted **
+* Realizar mantenimientos y actualizaciones de funcionalidad y visualización.
+* Gestión y coordinacion con los proyectos actuales.
+* Manejo de plataformas como Spring Boot, Intellij, SQL, y herramientas personales.
+* Lenguajes de programacion; java, javascript.
+
 **Técnico de Soporte Informático y Sistemas de Seguridad | Global System** (Dic 2022 - Ene 2024)
 * Reparación y mantenimiento de hardware y software.
 * Instalación y gestión de equipos de seguridad, videovigilancia CCTV y sistemas de domótica.
 * Coordinación de proyectos, gestión de presupuestos y logística de compras.
+* Instalacion de sistemas IoT y de domótica.
 
 ---
 
@@ -79,7 +86,7 @@ He consolidado mis proyectos y conocimientos prácticos en una guía detallada s
 
 * **Fundamentos de la Ciberseguridad** - _Certificado de Google_.
 * **Introducción a Copilot** - _Certificado de Santander Open Academy_.
-
+* **Cedecorch** -_Certificado de Mantenimiento y Ensamblaje de Computadoras_.
 ---
 
 ### 📫 Cómo Contactarme
