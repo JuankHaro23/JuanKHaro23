@@ -1,6 +1,8 @@
 # ¡Hola! Soy Juan Haro 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Haro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-haro-valle/) Ingeniero en Telecomunicaciones y actual estudiante del **Máster en Ingeniería de Computadores y Redes en la Universitat Politècnica de València**. Soy un profesional proactivo con una gran pasión por la tecnología, especializándome en redes, sistemas embebidos, ciberseguridad y ahora expandiéndome al desarrollo Full-Stack.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Haro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-haro-valle/) 
+
+#Soy Ingeniero en Telecomunicaciones y actual estudiante del **Máster en Ingeniería de Computadores y Redes en la Universitat Politècnica de València**. Soy un profesional proactivo con una gran pasión por la tecnología, especializándome en redes, sistemas embebidos, ciberseguridad y ahora expandiéndome al desarrollo Full-Stack.
 
 Mi objetivo es aplicar mis habilidades para crear soluciones tecnológicas eficientes y robustas. Tengo una capacidad comprobada para trabajar de forma independiente y como parte de un equipo, buscando siempre la calidad en cada tarea.
 
