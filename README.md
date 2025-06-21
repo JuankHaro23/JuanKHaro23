@@ -68,11 +68,13 @@ He consolidado mis proyectos y conocimientos prácticos en una guía detallada s
 
 ### 💼 Experiencia Profesional Relevante
 
-** Desarrollador Backend y Fronted **
+
+**Desarrollador Backend y Fronted | Sopra Steria**
 * Realizar mantenimientos y actualizaciones de funcionalidad y visualización.
 * Gestión y coordinacion con los proyectos actuales.
 * Manejo de plataformas como Spring Boot, Intellij, SQL, y herramientas personales.
 * Lenguajes de programacion; java, javascript.
+
 
 **Técnico de Soporte Informático y Sistemas de Seguridad | Global System** (Dic 2022 - Ene 2024)
 * Reparación y mantenimiento de hardware y software.
@@ -87,8 +89,9 @@ He consolidado mis proyectos y conocimientos prácticos en una guía detallada s
 * **Fundamentos de la Ciberseguridad** - _Certificado de Google_.
 * **Introducción a Copilot** - _Certificado de Santander Open Academy_.
 * **Cedecorch** -_Certificado de Mantenimiento y Ensamblaje de Computadoras_.
+* **Marco-Seguridad Industrial** -_Certificado en Prevención en Riesgos Laborales_.
 ---
 
 ### 📫 Cómo Contactarme
 
-Puedes contactarme a través de [**LinkedIn**](https://www.linkedin.com/in/juan-haro-valle/) o enviarme un correo a **[tu.email@ejemplo.com]**.
+Puedes contactarme a través de [**LinkedIn**](https://www.linkedin.com/in/juan-haro-valle/) o enviarme un mensaje por este medio
